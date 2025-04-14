@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+  <diagram name="第 1 页" id="7rovGdWfZn7G_NeXz2GA">
+    <mxGraphModel dx="999" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-1" target="0_MPUR2QSUnyPUdipwsz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-1" value="AI App 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="284" y="142" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-3" target="0_MPUR2QSUnyPUdipwsz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-3" value="Custom implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="434" y="142" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-5" target="0_MPUR2QSUnyPUdipwsz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-5" value="Custom prompt logic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="584" y="142" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-8" target="0_MPUR2QSUnyPUdipwsz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-8" value="Custom tool calls" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="773" y="142" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-10" value="Custom data access" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="962" y="142" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-15" target="0_MPUR2QSUnyPUdipwsz-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-15" value="AI App 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="284" y="236" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-17" target="0_MPUR2QSUnyPUdipwsz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-17" value="Custom implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="434" y="236" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-19" target="0_MPUR2QSUnyPUdipwsz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-19" value="Custom prompt logic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="584" y="236" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-21" target="0_MPUR2QSUnyPUdipwsz-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-21" value="Custom tool calls" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="773" y="236" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-22" value="Custom data access" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="962" y="236" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-24" target="0_MPUR2QSUnyPUdipwsz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-24" value="AI App 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="281" y="332" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-26" target="0_MPUR2QSUnyPUdipwsz-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-26" value="Custom implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="431" y="332" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-27" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-28" target="0_MPUR2QSUnyPUdipwsz-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-28" value="Custom prompt logic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="581" y="332" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-29" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0_MPUR2QSUnyPUdipwsz-30" target="0_MPUR2QSUnyPUdipwsz-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-30" value="Custom tool calls" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="770" y="332" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0_MPUR2QSUnyPUdipwsz-31" value="Custom data access" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="959" y="332" width="157" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
