@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="第 1 页" id="7rovGdWfZn7G_NeXz2GA">
-    <mxGraphModel dx="874" dy="850" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1190" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,6 +255,92 @@
         </mxCell>
         <mxCell id="P21x_U0bq4RzrlbeRF3H-32" value="NewsWriteAgent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="282.75" y="2122" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P21x_U0bq4RzrlbeRF3H-36" target="P21x_U0bq4RzrlbeRF3H-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P21x_U0bq4RzrlbeRF3H-36" target="P21x_U0bq4RzrlbeRF3H-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P21x_U0bq4RzrlbeRF3H-36" target="P21x_U0bq4RzrlbeRF3H-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-36" value="Registry API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="515" y="2387" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-37" value="registry: npm&lt;div&gt;published: ...&lt;/div&gt;&lt;div&gt;type: sse&lt;/div&gt;&lt;div&gt;url: ...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="343" y="2518" width="142" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-38" value="registry: pypi&lt;div&gt;published: ...&lt;/div&gt;&lt;div&gt;version: 1.3.0&lt;/div&gt;&lt;div&gt;type: stdio&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="504" y="2518" width="142" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-39" value="registry: npm&lt;div&gt;version: 1.0.0&lt;/div&gt;&lt;div&gt;type: sse&lt;/div&gt;&lt;div&gt;url: ...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2518" width="142" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P21x_U0bq4RzrlbeRF3H-44" target="P21x_U0bq4RzrlbeRF3H-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-44" value="&lt;b&gt;User&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1153.75" y="2278" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P21x_U0bq4RzrlbeRF3H-45" target="P21x_U0bq4RzrlbeRF3H-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.412;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P21x_U0bq4RzrlbeRF3H-45" target="P21x_U0bq4RzrlbeRF3H-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-45" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1134.5" y="2405" width="118.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-46" value="Registry API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1134.5" y="2532" width="118.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P21x_U0bq4RzrlbeRF3H-46" target="P21x_U0bq4RzrlbeRF3H-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-51" value="Search for the nearest coffee shop according to my location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="2361" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-52" value="Search for official Google Map server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="2484" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-53" value="Install &amp;amp; invoke Google Map server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="985" y="2484" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-54" value="Calculate the distance between two places in Google Map and show the nearest coffee shop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="937" y="2351" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P21x_U0bq4RzrlbeRF3H-62" target="P21x_U0bq4RzrlbeRF3H-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="2752" />
+              <mxPoint x="1279" y="2869" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-62" value="&lt;b&gt;User&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1155.25" y="2712" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="P21x_U0bq4RzrlbeRF3H-65" target="P21x_U0bq4RzrlbeRF3H-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.412;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P21x_U0bq4RzrlbeRF3H-65" target="P21x_U0bq4RzrlbeRF3H-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-65" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1136" y="2838" width="118.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-66" value="Shopify.com" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1136" y="2965" width="118.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-68" value="Check if Shopify has a &lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;.well-know/mcp.json&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="2917" width="138" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-69" value="&quot;Help me manage my store on Shopify&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1289" y="2790" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P21x_U0bq4RzrlbeRF3H-70" value="Update store on Shopify via Remote MCP server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="966" y="2777" width="133" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
